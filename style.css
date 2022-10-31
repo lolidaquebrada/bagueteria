@@ -1,7 +1,7 @@
-body{ background-color: black;}
+body{ background-color: white;}
 
-h1{color:rgb(237, 240, 243);
+h1{color:red;
 text-align: center;}
 
-p{color: aliceblue;
+p{color: black;
 font-size: medium;}
